@@ -219,7 +219,7 @@
                                         <span><i class="fa fa-calendar"></i> 2 December 2018</span>
                                         <a href="#"><h4>Titre</h4></a>
                                         <span><i class="fa fa-clock-o"></i> 10:00 Am - 3:00 Pm</span>
-                                        <span><i class="fa fa-map-marker"></i> Rc Auditorim</span>
+                                        <span><i class="fa fa-map-marker"></i> Casablanca</span>
                                     </div>
                                 </li>
                                <li>
@@ -227,7 +227,7 @@
                                         <span><i class="fa fa-calendar"></i> 2 December 2018</span>
                                         <a href="#"><h4>Titre 1</h4></a>
                                         <span><i class="fa fa-clock-o"></i> 10:00 Am - 3:00 Pm</span>
-                                        <span><i class="fa fa-map-marker"></i> Rc Auditorim</span>
+                                        <span><i class="fa fa-map-marker"></i> Casablanca</span>
                                     </div>
                                 </li>
                                  <li>
@@ -235,7 +235,7 @@
                                         <span><i class="fa fa-calendar"></i> 2 December 2018</span>
                                         <a href="#"><h4>Titre 2</h4></a>
                                         <span><i class="fa fa-clock-o"></i> 10:00 Am - 3:00 Pm</span>
-                                        <span><i class="fa fa-map-marker"></i> Rc Auditorim</span>
+                                        <span><i class="fa fa-map-marker"></i> Casablanca</span>
                                     </div>
                                 </li>
                             </ul> 
