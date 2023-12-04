@@ -555,6 +555,7 @@ p {
     -webkit-transition: all 0.4s linear;
     transition: all 0.4s linear;
     z-index: 99;
+    width:auto;
 }
 .navigation .navbar .navbar-nav li:hover .sub-menu{
     opacity: 1;
