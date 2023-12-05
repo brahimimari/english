@@ -31,7 +31,7 @@
                 <div class="row no-gutters">
                     <div class="col-lg-12 col-md-10 col-sm-9 col-9">
                         <nav class="navbar navbar-expand-lg">
-                            <a class="navbar-brand" href="#">
+                            <a class="navbar-brand" href="index.php">
                                 <img width="85%" src="images/logopng.png" alt="Logo">
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -43,7 +43,7 @@
                             <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                                 <ul class="navbar-nav ml-auto">
                                     <li class="nav-item">
-                                        <a class="active" href="#">Accueil</a>
+                                        <a class="active" href="index.php">Accueil</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="#">Méthodologie</a>
