@@ -62,7 +62,7 @@
                                     </li>
                                    
 								   <li class="nav-item">
-                                        <a href="#">Inscription</a>
+                                        <a href="inscription.php">Inscription</a>
                                     </li>
 									<li class="nav-item">
                                         <a href="#">Devenir enseignant</a>
