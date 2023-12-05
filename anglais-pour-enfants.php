@@ -11,10 +11,7 @@
 
     <!--====== Title ======-->
     <title></title>
-
-    <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="images/favicon.png" type="image/png">
-
+ 
     <!--====== Slick css ======-->
     <link rel="stylesheet" href="css/slick.css">
 
