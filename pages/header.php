@@ -49,7 +49,7 @@
                                         <a href="#">Méthodologie</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="courses.html">Formation</a>
+                                        <a href="#">Formation</a>
                                         <ul class="sub-menu">
                                             <li><a href="#">Anglais pour enfants</a></li>
                                             <li><a href="#">Anglais pour adolescents et adultes</a></li>
@@ -65,7 +65,7 @@
                                         <a href="inscription.php">Inscription</a>
                                     </li>
 									<li class="nav-item">
-                                        <a href="#">Devenir enseignant</a>
+                                        <a href="devenirenseignant.php">Devenir enseignant</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="contact.php">Contact</a>
