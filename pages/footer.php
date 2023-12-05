@@ -20,7 +20,7 @@
                                 <h6>Formations</h6>
                             </div>
                             <ul>
-                                <li><a href="anglais-pour-enfants.php"><i class="fa fa-angle-right"></i>Anglais pour infant</a></li>
+                                <li><a href="anglais-pour-enfants.php"><i class="fa fa-angle-right"></i>Anglais pour enfants</a></li>
                                 <li><a href="anglais-pour-adultes.php"><i class="fa fa-angle-right"></i>Anglais pour adultes</a></li>
                                 <li><a href="anglais-pour-Professionnel.php"><i class="fa fa-angle-right"></i>Anglais pour professionnels</a></li>
                                  <li><a href="inscription.php"><i class="fa fa-angle-right"></i>Inscription</a></li>

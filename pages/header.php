@@ -46,7 +46,7 @@
                                         <a class="active" href="index.php">Accueil</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#">Méthodologie</a>
+                                        <a href="methodologie.php">Méthodologie</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="#">Formation</a>
