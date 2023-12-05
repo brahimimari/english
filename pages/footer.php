@@ -17,13 +17,13 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="footer-link support mt-40">
                             <div class="footer-title pb-25">
-                                <h6>Support</h6>
+                                <h6>Formations</h6>
                             </div>
                             <ul>
-                                <li><a href="#"><i class="fa fa-angle-right"></i>Anglais pour infant</a></li>
-                                <li><a href="#"><i class="fa fa-angle-right"></i>Anglais pour adules</a></li>
-                                <li><a href="#"><i class="fa fa-angle-right"></i>Anglais pour professionnels</a></li>
-                                 <li><a href="#"><i class="fa fa-angle-right"></i>Inscription</a></li>
+                                <li><a href="anglais-pour-enfants.php"><i class="fa fa-angle-right"></i>Anglais pour infant</a></li>
+                                <li><a href="anglais-pour-adultes.php"><i class="fa fa-angle-right"></i>Anglais pour adultes</a></li>
+                                <li><a href="anglais-pour-Professionnel.php"><i class="fa fa-angle-right"></i>Anglais pour professionnels</a></li>
+                                 <li><a href="inscription.php"><i class="fa fa-angle-right"></i>Inscription</a></li>
                                 <li><a href="#"><i class="fa fa-angle-right"></i>Méthodologie</a></li>
                             </ul>
                         </div> <!-- support -->

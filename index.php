@@ -166,7 +166,7 @@
                             </div>
                         </div>
                         <div class="cont">
-                            <a href="#"><h4>Anglais pour Anfants</h4></a>
+                            <a href="anglais-pour-enfants.php"><h4>Anglais pour Anfants</h4></a>
                         </div>
                     </div> <!-- singel course -->
                 </div>
@@ -180,7 +180,7 @@
                              
                         </div>
                         <div class="cont">
-                            <a href="#"><h4>Anglais pour adolescents et adultes</h4></a>
+                            <a href="anglais-pour-adultes.php"><h4>Anglais pour adolescents et adultes</h4></a>
                         </div>
                     </div> <!-- singel course -->
                 </div>
@@ -192,7 +192,7 @@
                             </div>
                         </div>
                         <div class="cont">
-                            <a href="#"><h4>Anglais pour professionnels</h4></a>
+                            <a href="anglais-pour-Professionnel.php"><h4>Anglais pour professionnels</h4></a>
                         </div>
                     </div> <!-- singel course -->
                 </div>
