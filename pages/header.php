@@ -68,7 +68,7 @@
                                         <a href="#">Devenir enseignant</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#">Contact</a>
+                                        <a href="contact.php">Contact</a>
                                     </li>
                                 </ul>
                             </div>
