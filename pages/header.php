@@ -51,7 +51,7 @@
                                     <li class="nav-item">
                                         <a href="#">Formation</a>
                                         <ul class="sub-menu">
-                                            <li><a href="#">Anglais pour enfants</a></li>
+                                            <li><a href="anglais-pour-enfants.php">Anglais pour enfants</a></li>
                                             <li><a href="#">Anglais pour adolescents et adultes</a></li>
                                             <li><a href="#">Anglais pour professionnels</a></li>
                                         </ul>
