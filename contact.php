@@ -194,8 +194,7 @@
                                             <div class="help-block with-errors"></div>
                                         </div> <!-- singel form -->
                                     </div>
-                                    <p class="form-message"></p>
-                                    <div class="col-md-12">
+                                     <div class="col-md-12">
                                         <div class="singel-form">
                                             <input type="submit" value="Envoyer" name="envoyer" class="main-btn" />
                                         </div> <!-- singel form -->
