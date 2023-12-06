@@ -97,15 +97,29 @@
      ";
 
      // Pour envoyer un mail HTML, l'en-tête Content-type doit être défini
-     $headers[] = 'MIME-Version: 1.0';
-     $headers[] = 'Content-type: text/html; charset=iso-8859-1';
+     // $headers[] = 'MIME-Version: 1.0';
+     // $headers[] = 'Content-type: text/html; charset=iso-8859-1';
 
      // En-têtes additionnels
      //$headers[] = 'To: Mary <mary@example.com>, Kelly <kelly@example.com>';
-     $headers[] = "From: $name <$email>";
+     // $headers[] = "From: ".$email;
+	
+	// $headers = "MIME-Version: 1.0" . "\r\n";
+	// $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+
+	// $headers .= 'From: <webmaster@example.com>' . "\r\n";
+	// $headers .= 'Cc: myboss@example.com' . "\r\n";
+
+	// $headers = "From: webmaster@example.com" . "\r\n" .
+	// "Content-type:text/html;charset=UTF-8" . "\r\n".
+	// "CC: somebodyelse@example.com";
+	
+	$headers = "MIME-Version: 1.0\r\n";
+	$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
+
 
      // Envoi
-     mail($to, $subject, $message, implode("\r\n", $headers));
+     mail($to, $subject, $message,  $headers);
 	 }
 ?>
    
