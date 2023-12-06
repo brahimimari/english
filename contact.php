@@ -197,7 +197,7 @@
                                     <p class="form-message"></p>
                                     <div class="col-md-12">
                                         <div class="singel-form">
-                                            <button type="submit" class="main-btn">Envoyer</button>
+                                            <input type="submit" value="Envoyer" name="envoyer" class="main-btn" />
                                         </div> <!-- singel form -->
                                     </div> 
                                 </div> <!-- row -->
