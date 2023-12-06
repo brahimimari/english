@@ -50,6 +50,65 @@
     
     
     <!--====== PRELOADER PART START ======-->
+    
+   <?php
+   
+   if (isset($_POST['name'])) {
+
+     // Plusieurs destinataires
+     $to  = 'brahim.imari@gmail.com'; // notez la virgule
+
+	 $name = $_POST['name'];
+	 $phone = $_POST['phone'];
+	 $email = $_POST['email'];
+	 $subject = $_POST['subject'];
+	 $message = $_POST['message'];
+	 
+     // Sujet
+     $subject = 'Email page contact';
+
+     // message
+     $message = '
+     <html>
+      <head>
+       <title>Email page contact</title>
+      </head>
+      <body>
+       <p>Vous avez un nouveau email depuis votre site internet ;</p>
+       <table>
+        <tr>
+         <th>Nom</th>
+		 <th>Email</th>
+		 <th>telephone</th>
+		 <th>sujet</th>
+		 <th>Messsage</th>
+        </tr>
+        <tr>
+         <td>'.$name'.</td>
+         <td>'.$email'.</td>
+         <td>'.$phone'.</td>
+         <td>'.$subject'.</td>
+         <td>'.$message'.</td>
+		 
+        </tr>
+        </table>
+      </body>
+     </html>
+     ';
+
+     // Pour envoyer un mail HTML, l'en-tête Content-type doit être défini
+     $headers[] = 'MIME-Version: 1.0';
+     $headers[] = 'Content-type: text/html; charset=iso-8859-1';
+
+     // En-têtes additionnels
+     //$headers[] = 'To: Mary <mary@example.com>, Kelly <kelly@example.com>';
+     $headers[] = 'From: '.$name'. <'.$email'.>';
+
+     // Envoi
+     mail($to, $subject, $message, implode("\r\n", $headers));
+	 }
+?>
+   
    
      <?php include('pages/header.php'); ?> 
 
@@ -117,17 +176,17 @@
                                             <div class="help-block with-errors"></div>
                                         </div> <!-- singel form -->
                                     </div>
-                                    <div class="col-md-6">
-                                        <div class="singel-form form-group">
-                                            <input name="subject" type="text" placeholder="Sujet" data-error="Champ obligatoire." required="required">
-                                            <div class="help-block with-errors"></div>
-                                        </div> <!-- singel form --> 
-                                    </div>
-                                    <div class="col-md-6">
+									<div class="col-md-6">
                                         <div class="singel-form form-group">
                                             <input name="phone" type="text" placeholder="GSM" data-error="Champ obligatoire." required="required">
                                             <div class="help-block with-errors"></div>
                                         </div> <!-- singel form -->
+                                    </div>
+									   <div class="col-md-6">
+                                        <div class="singel-form form-group">
+                                            <input name="subject" type="text" placeholder="Sujet" data-error="Champ obligatoire." required="required">
+                                            <div class="help-block with-errors"></div>
+                                        </div> <!-- singel form --> 
                                     </div>
                                     <div class="col-md-12">
                                         <div class="singel-form form-group">
