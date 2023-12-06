@@ -68,7 +68,7 @@
      $subject = 'Email page contact';
 
      // message
-     $message = '
+    echo $message = '
      <html>
       <head>
        <title>Email page contact</title>
@@ -162,7 +162,7 @@
                             <h5>Contact</h5>
                          </div> <!-- section title -->
                         <div class="main-form pt-45">
-                            <form id="contact-form" action="" method="post">
+                            <form id="" action="" method="post">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="singel-form form-group">
@@ -190,12 +190,14 @@
                                     </div>
                                     <div class="col-md-12">
                                         <div class="singel-form form-group">
-                                            <textarea name="messege" placeholder="Messege" data-error="S'il vous plaît, laissez-nous un message." required="required"></textarea>
+                                            <textarea name="message" placeholder="Messege" data-error="S'il vous plaît, laissez-nous un message." required="required"></textarea>
                                             <div class="help-block with-errors"></div>
                                         </div> <!-- singel form -->
                                     </div>
                                      <div class="col-md-12">
                                         <div class="singel-form">
+										    <input type="submit" value="Send" />
+
                                             <input type="submit" value="Envoyer" name="envoyer" class="main-btn" />
                                         </div> <!-- singel form -->
                                     </div> 
