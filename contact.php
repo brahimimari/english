@@ -162,7 +162,7 @@
                             <h5>Contact</h5>
                          </div> <!-- section title -->
                         <div class="main-form pt-45">
-                            <form id="contact-form" action="#" method="post">
+                            <form id="contact-form" action="" method="post">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="singel-form form-group">
