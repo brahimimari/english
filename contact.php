@@ -84,11 +84,11 @@
 		 <th>Messsage</th>
         </tr>
         <tr>
-         <td>'.$name'.</td>
-         <td>'.$email'.</td>
-         <td>'.$phone'.</td>
-         <td>'.$subject'.</td>
-         <td>'.$message'.</td>
+         <td>$name</td>
+         <td>$email</td>
+         <td>$phone</td>
+         <td>$subject</td>
+         <td>$message</td>
 		 
         </tr>
         </table>
@@ -102,7 +102,7 @@
 
      // En-têtes additionnels
      //$headers[] = 'To: Mary <mary@example.com>, Kelly <kelly@example.com>';
-     $headers[] = 'From: '.$name'. <'.$email'.>';
+     $headers[] = 'From: $name <$email>';
 
      // Envoi
      mail($to, $subject, $message, implode("\r\n", $headers));
