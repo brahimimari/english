@@ -1,17 +1,16 @@
 <!doctype html>
 <html lang="en">
-
 <head>
-
+   
     <!--====== Required meta tags ======-->
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    
     <!--====== Title ======-->
     <title>Fluent English Academy</title>
-
+    
     <!--====== Slick css ======-->
     <link rel="stylesheet" href="css/slick.css">
 
@@ -41,93 +40,97 @@
     
     <!--====== Responsive css ======-->
     <link rel="stylesheet" href="css/responsive.css">
-
-
+  
+  
 </head>
 
 <body>
-
-    <!--====== PRELOADER PART START ======-->
-    
-    
-    
-    <!--====== PRELOADER PART START ======-->
-    
+ 
     <!--====== HEADER PART START ======-->
+	
 	   <?php include('pages/header.php'); ?> 
-
-    <!--====== HEADER PART ENDS ======-->
-
+	
+	<!--====== HEADER PART ENDS ======-->
+   
     <!--====== SEARCH BOX PART START ======-->
-
+    
+    <div class="search-box">
+        <div class="serach-form">
+            <div class="closebtn">
+                <span></span>
+                <span></span>
+            </div>
+            <form action="#">
+                <input type="text" placeholder="Search by keyword">
+                <button><i class="fa fa-search"></i></button>
+            </form>
+        </div> <!-- serach form -->
+    </div>
+    
     <!--====== SEARCH BOX PART ENDS ======-->
-
+   
     <!--====== PAGE BANNER PART START ======-->
-
-    <section id="page-banner" class="pt-105 pb-110 bg_cover" data-overlay="8" style="background-image: url(images/bannier-enfant-.avif)">
+    
+    <section id="page-banner" class="pt-200 pb-200 bg_cover" data-overlay="8" style="background-image: url(images/webimages/about.jpg)">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="page-banner-cont">
-                        <h2 style="text-align: center !important;">Professionnel</h2>
-                    </div> <!-- page banner cont -->
+                        <h2>Apropos</h2>
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="index.php">Acceuil</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">Apropos</li>
+                            </ol>
+                        </nav>
+                    </div>  <!-- page banner cont -->
                 </div>
             </div> <!-- row -->
         </div> <!-- container -->
     </section>
-
+    
     <!--====== PAGE BANNER PART ENDS ======-->
-
-    <!--====== EVENTS PART START ======-->
-
-    <section id="event-singel" class="pt-120 pb-120 gray-bg">
+   
+   <section id="about-page" class="pt-40 pb-40">
         <div class="container">
-            <div class="events-area">
-                <h3 style="color: #b30520;">Anglais pour professionnel</h3><div class="row">
-				
-                    <div class="col-lg-6">
-                        <div class="events-left">
-                            
- 							<div class="section-title mt-50">
-								<h5>Business English</h5>
-							</div> <!-- section title -->
-							<p>
-								Dans ce cours, l'accent est résolument placé sur des compétences clés telles que la communication, la rédaction professionnelle, la conduite de réunions, le management, la gestion de projet, le marketing, et bien d'autres encore.
-				</p>
-				<p>
-Chaque module est conçu pour répondre aux besoins spécifiques du monde professionnel, offrant ainsi une approche pragmatique et axée sur les compétences nécessaires dans un contexte d'affaires. Notre objectif est de doter les participants des outils linguistiques et des compétences nécessaires pour exceller dans un environnement professionnel international.
-							</p>
-							 
-                        </div> <!-- events left -->
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="section-title mt-50">
+                        <h5>Fluent English Academy</h5>
+                     </div> <!-- section title -->
+                    <div class="about-cont">
+                        <p>
+							FLUENT ENGLISH ACADEMY est un centre d’enseignement de la langue anglaise visant l’excellence. En Novembre 2023, Fluent English Academy ouvre son premier centre au sein du Groupe Scolaire Jules Renard International School.
+						</p>
+						<p>
+							Nos locaux sont spacieux et équipés des dernières technologies facilitant nôtre approche d’apprentissage ludique et interactif du ‘Learning by doing’.
+						</p>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="events-right">
-						<br />
-						<br />
-						<img src="images/webimages/anglais-pro.jpg" />
-                             <!-- events address -->
-                        </div> <!-- events right -->
-                    </div>
+                </div> <!-- about cont -->
+                <div class="col-lg-1">
+				</div>
+                <div class="col-lg-5">
+                    <div class="about-image mt-50">
+                        <img src="images/webimages/anglais-adultes.jpg" style="width:70%" alt="About">
+                    </div>  <!-- about imag -->
                 </div> 
-				
-		    </div> <!-- events-area -->
-        </div> <!-- container -->
+            </div> <!-- row -->
+          </div> <!-- container -->
     </section>
+     <!--====== FOOTER PART START ======-->
 
-    <!--====== EVENTS PART ENDS ======-->
-
-    <!--====== FOOTER PART START ======-->
-
- 	<?php include('pages/footer.php'); ?> 
-
+    <?php include('pages/footer.php'); ?> 
+ 
     <!--====== FOOTER PART ENDS ======-->
-
-    <!--====== BACK TO TP PART START ======-->
+   
+    <!--====== BACK TO TOP PART START ======-->
     
     <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
     
-    <!--====== BACK TO TP PART ENDS ======-->
-   
+    <!--====== BACK TO TOP PART ENDS ======-->
+
+
+    
     
     
     
@@ -175,5 +178,4 @@ Chaque module est conçu pour répondre aux besoins spécifiques du monde profes
     <script src="js/map-script.js"></script>
 
 </body>
-
 </html>

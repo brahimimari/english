@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!--====== Title ======-->
-    <title></title>
+    <title>Fluent English Academy</title>
  
     <!--====== Slick css ======-->
     <link rel="stylesheet" href="css/slick.css">
@@ -64,7 +64,7 @@
 
     <!--====== PAGE BANNER PART START ======-->
 
-    <section id="page-banner" class="pt-105 pb-110 bg_cover" data-overlay="8" style="background-image: url(images/bannier-enfant-.avif)">
+    <section id="page-banner" class="pt-200 pb-200 bg_cover" data-overlay="8" style="background-image: url(images/webimages/bannier-enfants.JPG)">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -84,7 +84,7 @@
         <div class="container">
             <div class="events-area">
                 <div class="row">
-                    <div class="col-lg-7">
+                    <div class="col-lg-6">
                         <div class="events-left">
                             <h3 style="color: #b30520;">Nôtre Approche pédagogique</h3>
 							<p>
@@ -98,10 +98,11 @@
 							</p>
                         </div> <!-- events left -->
                     </div>
-                    <div class="col-lg-5">
+                    <div class="col-lg-6">
                         <div class="events-right">
-						
-						<img src="images/english-enfant.webp" />
+						<br />
+						<br />
+						<img src="images/webimages/anglais-enfants.jpg" />
                              <!-- events address -->
                         </div> <!-- events right -->
                     </div>

@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!--====== Title ======-->
-    <title></title>
+    <title>Fluent English Academy</title>
  
     <!--====== Slick css ======-->
     <link rel="stylesheet" href="css/slick.css">
@@ -64,7 +64,7 @@
 
     <!--====== PAGE BANNER PART START ======-->
 
-    <section id="page-banner" class="pt-105 pb-110 bg_cover" data-overlay="8" style="background-image: url(images/page-banner-1.jpg)">
+    <section id="page-banner" class="pt-200 pb-200 bg_cover" data-overlay="8" style="background-image: url(images/webimages/methodologie.jpg)">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

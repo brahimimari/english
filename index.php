@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
     <!--====== Title ======-->
-    <title></title>
+    <title>Fluent English Academy</title>
     
 
     <!--====== Slick css ======-->
@@ -65,52 +65,57 @@
     <!--====== SLIDER PART START ======-->
     
     <section id="slider-part" class="slider-active">
-        <div class="single-slider slider-2 bg_cover" style="background-image: url(images/slider/s-2.jpg)" data-overlay="4">
+        <div class="single-slider slider-2 bg_cover" style="background-image: url(images/slider/3.jpg)" data-overlay="4">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-9 col-lg-10">
                         <div class="slider-cont">
                             <h1 data-animation="bounceInLeft" data-delay="1s">Centre : Testez gratuitement votre niveau d’anglais !</h1>
-                            <a data-animation="fadeInUp" data-delay="1.3s" href="#" class="main-btn">Commencez l'essai maintenant</a>
+                            <a data-animation="fadeInUp" data-delay="1.3s" href="inscription.php" class="main-btn">Commencez l'essai maintenant</a>
                         </div>
                     </div>
                 </div> <!-- row -->
             </div> <!-- container -->
         </div> <!-- single slider -->
         
-        <div class="single-slider slider-2 bg_cover" style="background-image: url(images/slider/s-3.jpg)" data-overlay="4">
+        <div class="single-slider slider-2 bg_cover" style="background-image: url(images/slider/1.jpg)" data-overlay="4">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-9 col-lg-10">
                         <div class="slider-cont">
-                            <h1 data-animation="bounceInLeft" data-delay="1s">Kids : Explorons le monde avec l’anglais !</h1>
+                            <h1 data-animation="bounceInLeft" data-delay="1s">Kids : Explorons le monde avec l’anglais ! <br /><br /></h1>
+							                            <a data-animation="fadeInUp" data-delay="1.3s" href="inscription.php" class="main-btn">Commencez l'essai maintenant</a>
+
                          </div>
                     </div>
                 </div> <!-- row -->
             </div> <!-- container -->
         </div> <!-- single slider -->
         
-        <div class="single-slider slider-2 bg_cover" style="background-image: url(images/slider/s-1.jpg)" data-overlay="4">
+        <div class="single-slider slider-2 bg_cover" style="background-image: url(images/slider/2.jpg)" data-overlay="4">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-9 col-lg-10">
                         <div class="slider-cont">
                             <h1 data-animation="bounceInLeft" data-delay="1s">Adults : Libérez vôtre potentiel en parlant anglais !</h1>
-                            <a data-animation="fadeInUp" data-delay="1.3s" href="#" class="main-btn">Start Trial now</a>
-                        </div>
+							<a data-animation="fadeInUp" data-delay="1.3s" href="inscription.php" class="main-btn">Commencez l'essai maintenant</a>
+
+							</div>
                     </div>
                 </div> <!-- row -->
             </div> <!-- container -->
         </div> <!-- single slider -->
 		
 		      
-        <div class="single-slider slider-2 bg_cover" style="background-image: url(images/slider/s-1.jpg)" data-overlay="4">
+        <div class="single-slider slider-2 bg_cover" style="background-image: url(images/slider/9.jpg)" data-overlay="4">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-9 col-lg-10">
                         <div class="slider-cont">
                             <h1 data-animation="bounceInLeft" data-delay="1s">Professionnel : La réussite mondiale commence par la maîtrise de l’anglais !</h1>
-                         </div>
+                         							<a data-animation="fadeInUp" data-delay="1.3s" href="inscription.php" class="main-btn">Commencez l'essai maintenant</a>
+
+	</div>
                     </div>
                 </div> <!-- row -->
             </div> <!-- container -->
@@ -120,10 +125,10 @@
     <!--====== SLIDER PART ENDS ======-->
    
      
-    <section id="about-page" class="pt-70 pb-110">
+    <section id="about-page" class="pt-40 pb-40">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5">
+                <div class="col-lg-6">
                     <div class="section-title mt-50">
                         <h5>Fluent English Academy</h5>
                      </div> <!-- section title -->
@@ -136,9 +141,11 @@
 						</p>
                     </div>
                 </div> <!-- about cont -->
-                <div class="col-lg-7">
+                <div class="col-lg-1">
+				</div>
+                <div class="col-lg-5">
                     <div class="about-image mt-50">
-                        <img src="images/about/about-2.jpg" alt="About">
+                        <img src="images/webimages/anglais-adultes.jpg" style="width:70%" alt="About">
                     </div>  <!-- about imag -->
                 </div> 
             </div> <!-- row -->
@@ -148,7 +155,7 @@
   
   <!--====== COURSE PART START ======-->
     
-    <section id="course-part" class="pt-30">
+    <section id="course-part" class="pt-30 pb-40">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -162,7 +169,7 @@
                     <div class="singel-course-2">
                         <div class="thum">
                             <div class="image">
-                                <img src="images/anglais-enfants.webp" alt="">
+                                <img src="images/webimages/anglais-enfants.jpg" alt="">
                             </div>
                         </div>
                         <div class="cont">
@@ -174,7 +181,7 @@
                     <div class="singel-course-2">
                         <div class="thum">
                             <div class="image">
-                                <img src="images/anglais-enfants.webp" alt="">
+                                <img src="images/webimages/anglais-adultes-1.jpg" alt="">
                             </div>
                             
                              
@@ -188,7 +195,7 @@
                     <div class="singel-course-2">
                         <div class="thum">
                             <div class="image">
-                                <img src="images/anglais-enfants.webp" alt="">
+                                <img src="images/webimages/anglais-pro-1.jpg" alt="">
                             </div>
                         </div>
                         <div class="cont">
@@ -202,7 +209,7 @@
     
     <!--====== COURSE PART ENDS ======-->
  
-    <!--====== EVENT 2 PART START ======-->
+    <!--====== EVENT 2 PART START 
     
     <section id="event-part" class="pt-120">
         <div class="container">
@@ -212,7 +219,7 @@
                         <div class="event-2 pt-90 pb-70">
                             <div class="event-title">
                                 <h3>Actualités</h3>
-                            </div> <!-- event title -->
+                            </div>  
                             <ul>
                                 <li>
                                     <div class="singel-event">
@@ -239,12 +246,12 @@
                                     </div>
                                 </li>
                             </ul> 
-                        </div> <!-- event 2 -->
+                        </div>  
                     </div>
-                </div> <!-- row -->
+                </div>  
             </div>
-        </div> <!-- container -->
-    </section>
+        </div>  
+    </section>-->
     
     <!--====== EVENT 2 PART ENDS ======-->
    

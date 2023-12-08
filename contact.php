@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
     <!--====== Title ======-->
-    <title></title>
+    <title>Fluent English Academy</title>
     
     <!--====== Slick css ======-->
     <link rel="stylesheet" href="css/slick.css">
@@ -68,7 +68,7 @@
      $subject = 'Email page contact';
 
      // message
-    echo $message = "
+    $message = "
      <html>
       <head>
        <title>Email page contact</title>
@@ -145,7 +145,7 @@
    
     <!--====== PAGE BANNER PART START ======-->
     
-    <section id="page-banner" class="pt-105 pb-130 bg_cover" data-overlay="8" style="background-image: url(images/page-banner-6.jpg)">
+    <section id="page-banner" class="pt-200 pb-200 bg_cover" data-overlay="8" style="background-image: url(images/webimages/contact.jpg)">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -167,7 +167,7 @@
     
     <!--====== CONTACT PART START ======-->
     
-    <section id="contact-page" class="pt-90 pb-120 gray-bg">
+    <section id="contact-page" class="pt-50 pb-50 gray-bg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-7">

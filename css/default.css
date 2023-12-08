@@ -130,6 +130,9 @@
 .mt-200 {
 	margin-top: 200px;
 }
+.pt-250 {
+	margin-top: 250px;
+}
 /*-- Margin Bottom --*/
 
 .mb-5 {
@@ -252,6 +255,11 @@
 .mb-200 {
 	margin-bottom: 200px;
 }
+
+.mb-300 {
+	margin-bottom: 300px;
+}
+
 /*-- margin left --*/
 .ml-5 {
 	margin-left: 5px;
@@ -501,6 +509,9 @@
 .pt-5 {
 	padding-top: 5px;
 }
+.pt-300 {
+	padding-top: 300px;
+}
 .pt-10 {
 	padding-top: 10px;
 }
@@ -619,6 +630,10 @@
 	padding-top: 200px;
 }
 /*-- Padding Bottom --*/
+
+.pb-250 {
+	padding-bottom: 250px;
+}
 
 .pb-5 {
 	padding-bottom: 5px;
@@ -911,7 +926,8 @@
 	position: relative;
 }
 [data-overlay]::before {
-	background: #07294d none repeat scroll 0 0;
+	background: #50759d none repeat scroll 0 0;
+	/* #07294d none repeat scroll 0 0; */
 	content: "";
 	height: 100%;
 	left: 0;

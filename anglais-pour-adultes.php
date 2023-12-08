@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!--====== Title ======-->
-    <title></title>
+    <title>Fluent English Academy</title>
 
     <!--====== Slick css ======-->
     <link rel="stylesheet" href="css/slick.css">
@@ -98,13 +98,18 @@
 							<p>
 								Les méthodes utilisées par nos formateurs ont pour but de développer une fluidité tout aussi bien dans la communication mais aussi à l’écrit
 							</p>
-							 
+							 <div class="section-title mt-50">
+								<h5>Communication</h5>
+							</div> <!-- section title -->
+							<p>
+							L’objectif de ce cours est d’améliorer significativement votre communication en anglais, que ce soit à l'écrit ou à l'oral, grâce à des ateliers pratiques à effectif réduit (maximum 8 participants).
+							</p>
                         </div> <!-- events left -->
                     </div>
                     <div class="col-lg-6">
                         <div class="events-right">
 						
-						<img src="images/adultes-2.jpg" />
+						<img src="images/webimages/anglais-adultes.jpg" width="90%" />
                              <!-- events address -->
                         </div> <!-- events right -->
                     </div>
@@ -114,12 +119,7 @@
 				<div class="col-lg-12">
                         <div class="events-left">
                             
-							<div class="section-title mt-50">
-								<h5>Communication</h5>
-							</div> <!-- section title -->
-							<p>
-							L’objectif de ce cours est d’améliorer significativement votre communication en anglais, que ce soit à l'écrit ou à l'oral, grâce à des ateliers pratiques à effectif réduit (maximum 8 participants).
-							</p>
+							
 							<p>
 							Notre programme exhaustif commence par les bases essentielles de la grammaire, indispensables à une communication fluide. Nous renforçons ensuite ces acquis par des compétences en lecture, permettant une compréhension approfondie et une application pratique des règles grammaticales.
 							</p>
