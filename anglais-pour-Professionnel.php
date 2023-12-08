@@ -64,7 +64,7 @@
 
     <!--====== PAGE BANNER PART START ======-->
 
-    <section id="page-banner" class="pt-105 pb-110 bg_cover" data-overlay="8" style="background-image: url(images/bannier-enfant-.avif)">
+    <section id="page-banner" class="pt-200 pb-300 bg_cover" data-overlay="8" style="background-image: url(images/webimages/pro.jpg)">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
